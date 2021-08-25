@@ -1,0 +1,129 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "backwindow.vmat"
+								to = "materials/props/car/npdy-taxi/backwindow.vmat"
+							},
+							{
+								from = "body.vmat"
+								to = "materials/props/car/npdy-taxi/crown_vic_nypd_body_color.vmat"
+							},
+							{
+								from = "wheel.vmat"
+								to = "materials/props/car/npdy-taxi/crown_vic_wheel.vmat"
+							},
+							{
+								from = "brake.vmat"
+								to = "materials/props/car/npdy-taxi/crown_vic_wheel_brake.vmat"
+							},
+							{
+								from = "interior.vmat"
+								to = "materials/props/car/npdy-taxi/crown_vic_interior.vmat"
+							},
+							{
+								from = "glass.vmat"
+								to = "materials/props/car/npdy-taxi/basicwindowscar.vmat"
+							},
+							{
+								from = "licence plate.vmat"
+								to = "materials/props/car/npdy-taxi/carinvinsible.vmat"
+							},
+							{
+								from = "roof light stand.vmat"
+								to = "materials/props/car/npdy-taxi/crown_vic_nypd_body_color.vmat"
+							},
+							{
+								from = "orange back light.vmat"
+								to = "materials/props/car/npdy-taxi/carorangeled.vmat"
+							},
+							{
+								from = "white roof light.vmat"
+								to = "materials/props/car/npdy-taxi/whiterooflight.vmat"
+							},
+							{
+								from = "roof light.vmat"
+								to = "materials/props/car/npdy-taxi/carorangeled.vmat"
+							},
+							{
+								from = "light dark.vmat"
+								to = "materials/props/car/npdy-taxi/carorangeled.vmat"
+							},
+							{
+								from = ""
+								to = "materials/props/car/npdy-taxi/carredled.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsMeshFile"
+						name = "nypd"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = false
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						filename = "models/car/nypd.fbx"
+						import_scale = 0.38
+						maxMeshVertices = 0
+						qemError = 0.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/car/nypd.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 0.38
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}
