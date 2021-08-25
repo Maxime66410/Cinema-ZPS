@@ -5,7 +5,7 @@ Layer0
 	shader "sky.vfx"
 
 	//---- Texture ----
-	g_flBrightnessExposureBias "0.000"
-	g_flRenderOnlyExposureBias "-1.000"
+	g_flBrightnessExposureBias "-0.511"
+	g_flRenderOnlyExposureBias "-1.533"
 	SkyTexture "materials/sky/skynight.png"
 }
