@@ -56,7 +56,7 @@
 						align_origin_z_type = "None"
 						filename = "models/car/Mercedes Benz E63.obj"
 						import_scale = 1.5
-						maxMeshVertices = 0
+						maxMeshVertices = 219
 						qemError = 0.0
 						import_filter = 
 						{

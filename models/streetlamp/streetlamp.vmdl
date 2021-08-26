@@ -41,7 +41,7 @@
 						align_origin_z_type = "None"
 						filename = "models/streetlamp/bandera1.FBX"
 						import_scale = 0.35
-						maxMeshVertices = 0
+						maxMeshVertices = 125
 						qemError = 0.0
 						import_filter = 
 						{

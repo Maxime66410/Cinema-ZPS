@@ -81,7 +81,7 @@
 						align_origin_z_type = "None"
 						filename = "models/car/LightCommercialTruck.fbx"
 						import_scale = 1.2
-						maxMeshVertices = 0
+						maxMeshVertices = 136
 						qemError = 0.0
 						import_filter = 
 						{

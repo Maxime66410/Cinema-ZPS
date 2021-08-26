@@ -45,7 +45,7 @@
 						align_origin_z_type = "None"
 						filename = "models/tree/basictree.obj"
 						import_scale = 1.0
-						maxMeshVertices = 0
+						maxMeshVertices = 5
 						qemError = 0.0
 						import_filter = 
 						{

@@ -41,7 +41,7 @@
 						align_origin_z_type = "None"
 						filename = "models/wiremeshbasic/wiremeshbasic.fbx"
 						import_scale = 1.0
-						maxMeshVertices = 0
+						maxMeshVertices = 8
 						qemError = 0.0
 						import_filter = 
 						{

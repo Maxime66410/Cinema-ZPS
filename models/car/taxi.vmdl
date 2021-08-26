@@ -57,7 +57,7 @@
 						align_origin_z_type = "None"
 						filename = "models/car/taxi.obj"
 						import_scale = 38.0
-						maxMeshVertices = 0
+						maxMeshVertices = 139
 						qemError = 0.0
 						import_filter = 
 						{

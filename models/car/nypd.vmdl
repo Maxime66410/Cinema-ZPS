@@ -89,7 +89,7 @@
 						align_origin_z_type = "None"
 						filename = "models/car/nypd.fbx"
 						import_scale = 0.38
-						maxMeshVertices = 0
+						maxMeshVertices = 147
 						qemError = 0.0
 						import_filter = 
 						{
